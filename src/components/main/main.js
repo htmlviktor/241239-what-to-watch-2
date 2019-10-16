@@ -6,8 +6,8 @@ const Main = () => {
   return <React.Fragment>
     <MovieCard />
     <MainPage />
-  </React.Fragment>
-}
+  </React.Fragment>;
+};
 
 
 export default Main;

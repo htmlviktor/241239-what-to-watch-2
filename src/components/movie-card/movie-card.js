@@ -13,7 +13,7 @@ const MovieCard = () => {
       <MovieCardInfo />
     </div>
   </section>;
-}
+};
 
 
 export default MovieCard;
